@@ -19,7 +19,7 @@ mccabe==0.6.1
 more-itertools==5.0.0
 pep8==1.7.1
 pip-upgrade-outdated==1.5
-pipreqs==0.4.9
+pipreqs==0.4.12
 pluggy==0.8.1
 py==1.10.0
 pylint==2.2.2
